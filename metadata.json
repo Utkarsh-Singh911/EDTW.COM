@@ -1,0 +1,5 @@
+{
+  "name": "Hill Cipher Encryptor/Decryptor",
+  "description": "A web application to encrypt and decrypt messages using the Hill Cipher technique with a 2x2 key matrix over a modulo 27 alphabet (A-Z and space).",
+  "requestFramePermissions": []
+}
